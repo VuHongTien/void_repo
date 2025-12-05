@@ -4,3 +4,6 @@ from function_2 import deet
 if __name__ == "__main__":
     #test function from function_1.py
     print_something()
+
+    #test function deet from function_2.py
+    deet()
