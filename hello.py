@@ -4,6 +4,3 @@ print("hello_world")
 
 print("fuch yu meen")
 
-# update from remote repo
-
-print("what do yu mean")
