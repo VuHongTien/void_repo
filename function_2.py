@@ -1,0 +1,1 @@
+#this is function_2 of func_1.py
