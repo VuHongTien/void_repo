@@ -13,4 +13,12 @@ def print_or_not_print(chosse):
         print("You chose to print")
     else:
         print("You know what you did")
-        
+
+#code for fun
+
+def too_much_choices(end):
+    if end:
+        print("this is the end")
+
+    else:
+        print("i still can handle it")
