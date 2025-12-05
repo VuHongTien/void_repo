@@ -22,3 +22,11 @@ def too_much_choices(end):
 
     else:
         print("i still can handle it")
+
+#give this file a main()
+
+if __name__ == "__main__":
+    print_something()
+    print_or_not_print(True)
+    too_much_choices(False)
+    #it's time to consider putting these functions into the main branch
